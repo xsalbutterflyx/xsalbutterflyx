@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.header("hello world")
-st.write("bitch")
+st.header("EcoSync@NP")
+st.write("Eco syncing your eco needs.")
